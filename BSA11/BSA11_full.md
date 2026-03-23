@@ -1,40 +1,40 @@
 # Ex00 - Выбор формы представления продукта
-![Illustration](../misc/images/55.png)
+![Illustration](images/55.png)
 
 # Ex01 - Экранные формы классификаторов и справочников
-![Illustration](../misc/images/39.png)
+![Illustration](images/39.png)
 
-![Illustration](../misc/images/36.png)
+![Illustration](images/36.png)
 
-![Illustration](../misc/images/37.png)
+![Illustration](images/37.png)
 
-![Illustration](../misc/images/38.png)
+![Illustration](images/38.png)
 
-![Illustration](../misc/images/40.png)
+![Illustration](images/40.png)
 
-![Illustration](../misc/images/41.png)
+![Illustration](images/41.png)
 
-![Illustration](../misc/images/42.png)
+![Illustration](images/42.png)
 
 # Ex02 - Данные на экранных формах классификаторов и справочников
 
-![Illustration](../misc/images/43.png)
+![Illustration](images/43.png)
 
-![Illustration](../misc/images/44.png)
+![Illustration](images/44.png)
 
 
 # Ex03 - Ключевые сценарии ролей
-![Illustration](../misc/images/33.png)
+![Illustration](images/33.png)
 
-![Illustration](../misc/images/34.png)
+![Illustration](images/34.png)
 
 # Ex04 - Список экранных форм
-![Illustration](../misc/images/32.png)
+![Illustration](images/32.png)
 
 # Ex05 - Детальный анализ экранных форм системы барбершопа
 
 ## Форма 1: Форма входа в систему для сотрудников
-![Illustration](../misc/images/2.png)
+![Illustration](images/2.png)
 
 ### Основные операции
 | Операция | Роли | Условия выполнения | Результат в текущем окне | Результат в системе |
@@ -62,7 +62,7 @@
 ---
 
 ## Форма 2: Главная страница менеджера
-![Illustration](../misc/images/4.png)
+![Illustration](images/4.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -91,7 +91,7 @@
 ---
 
 ## Форма 3: Экран расписания мастеров
-![Illustration](../misc/images/6.png)
+![Illustration](images/6.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -140,7 +140,7 @@
 ---
 
 ## Форма 4: Карточка слота расписания
-![Illustration](../misc/images/8.png)
+![Illustration](images/8.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -170,7 +170,7 @@
 ---
 
 ## Форма 5: Окно подтверждения изменения
-![Illustration](../misc/images/10.png)
+![Illustration](images/10.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -194,7 +194,7 @@
 ---
 
 ## Форма 6: Главная страница мастера
-![Illustration](../misc/images/12.png)
+![Illustration](images/12.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -224,7 +224,7 @@
 ---
 
 ## Форма 7: Расписание мастера
-![Illustration](../misc/images/14.png)
+![Illustration](images/14.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -254,7 +254,7 @@
 ---
 
 ## Форма 8: Карточка записи для мастера
-![Illustration](../misc/images/16.png)
+![Illustration](images/16.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -280,7 +280,7 @@
 ---
 
 ## Форма 9: Форма входа для клиентов
-![Illustration](../misc/images/18.png)
+![Illustration](images/18.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -314,7 +314,7 @@
 ---
 
 ## Форма 10: Главная страница клиента
-![Illustration](../misc/images/20.png)
+![Illustration](images/20.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -339,7 +339,7 @@
 ---
 
 ## Форма 11: Страница услуг
-![Illustration](../misc/images/22.png)
+![Illustration](images/22.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -368,7 +368,7 @@
 ---
 
 ## Форма 12: Страница выбора мастера
-![Illustration](../misc/images/24.png)
+![Illustration](images/24.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -403,7 +403,7 @@
 ---
 
 ## Форма 13: Страница выбора времени
-![Illustration](../misc/images/26.png)
+![Illustration](images/26.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -432,7 +432,7 @@
 ---
 
 ## Форма 14: Подтверждение записи
-![Illustration](../misc/images/28.png)
+![Illustration](images/28.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -459,7 +459,7 @@
 ---
 
 ## Форма 15: Итоговая карточка записи
-![Illustration](../misc/images/30.png)
+![Illustration](images/30.png)
 
 ### Основные операции
 | Операция | Роли | Условия | Результат в окне | Результат в системе |
@@ -484,4 +484,4 @@
 - **Служебные поля:** Время завершения, сессия
 
 # Ex06 - Описание контролей
-![Illustration](../misc/images/31.png)
+![Illustration](images/31.png)
